@@ -16,9 +16,8 @@
 <a href="https://www.fl.ru/users/vyacheslav-luts/">My profile on Fl.ru</a>
 <h3 align='center'>Trophy</h3>
 
-<a href="https://github.com/SlaweekLut/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SlaweekLut&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+<img align='center' src="https://github-profile-trophy.vercel.app/?username=SlaweekLut&column=8&theme=gruvbox&no-frame=true"/>
+
 
 <h3 align='center'>Codewars</h3>
 <img src="https://www.codewars.com/users/SlaweekLut/badges/large">
