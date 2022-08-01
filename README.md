@@ -14,7 +14,8 @@
   My profile on freelance :
 </h3>
 <a href="https://www.fl.ru/users/vyacheslav-luts/">My profile on Fl.ru</a>
-<h3 align='center'>Tropy</h3>
-<div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SlaweekLut](https://github.com/SlaweekLut/github-profile-trophy)
-</div>
+<h3 align='center'>Trophy</h3>
+
+<a href="https://github.com/SlaweekLut/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SlaweekLut&column=8&theme=gruvbox&no-frame=true"/>
+</a>
