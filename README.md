@@ -16,5 +16,5 @@
 <a href="https://www.fl.ru/users/vyacheslav-luts/">My profile on Fl.ru</a>
 <h3 align='center'>Tropy</h3>
 <div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/SlaweekLut/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SlaweekLut](https://github.com/SlaweekLut/github-profile-trophy)
 </div>
